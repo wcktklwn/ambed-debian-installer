@@ -6,7 +6,7 @@ https://github.com/LX3JL/xlxd/blob/master/ambed/readme
 2. Plug the AMBE vocoder chips into the server.
 3. 
 ```sh
-git clone https://github.com/n5amd/ambed-debian-installer
+git clone https://github.com/wcktklwn/ambed-debian-installer
 cd ambed-debian-installer
 ./ambe-debian-installer
 ```
